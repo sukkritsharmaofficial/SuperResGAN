@@ -1,5 +1,5 @@
 # SuperResGAN 🔆✨
-<p align="center"><img width=45% src="https://raw.githubusercontent.com/sukkritsharmaofficial/SuperResGAN/master/media/upscaleres.jpg"></p>
+<p align="center"><img width=65% src="https://raw.githubusercontent.com/sukkritsharmaofficial/SuperResGAN/master/media/upscaleres.jpg"></p>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
