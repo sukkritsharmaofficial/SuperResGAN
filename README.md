@@ -1,1 +1,1 @@
-# SuperResGAN 🔆
+# SuperResGAN 🔆✨
