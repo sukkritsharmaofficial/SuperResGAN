@@ -80,3 +80,6 @@ Step 2 : Run the following command
 python3 test.py
 ```
 This will iterate through all the photos present in LR folder and save them in results folder.
+
+# To train yourself :fire:✨
+Go to [train](https://github.com/sukkritsharmaofficial/SuperResGAN/tree/master/train) and read ReadMe.md
