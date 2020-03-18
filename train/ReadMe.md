@@ -17,6 +17,7 @@ Since we cannot practically train for longer time limiting training to 1000 imag
 
 #### Keeping only 1000 images
 ```python
+# run python3 limit.py
 import os
 path = "data/img_align_celeba"
 for filename in os.listdir(path):
