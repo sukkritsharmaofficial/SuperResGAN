@@ -1,5 +1,5 @@
 # SuperResGAN 🔆✨
-<p align="center"><img width=65% src="media/img_artwork.jpg"></p>
+<p align="center"><img width=55% src="media/img_artwork.jpg"></p>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
