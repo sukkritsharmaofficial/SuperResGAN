@@ -81,5 +81,27 @@ python3 test.py
 ```
 This will iterate through all the photos present in LR folder and save them in results folder.
 
+## Results 
+-
+<p>
+  <img src="https://raw.githubusercontent.com/sukkritsharmaofficial/SuperResGAN/master/LR/0829x4-crop.png" alt="feed example" width="250">
+  <img src="https://raw.githubusercontent.com/sukkritsharmaofficial/SuperResGAN/master/results/0829x4-crop_rlt.png" alt="feed example" width="250">
+</p>
+
+-
+
+<p>
+  <img src="https://raw.githubusercontent.com/sukkritsharmaofficial/SuperResGAN/master/LR/PIPRM_3_crop.png" alt="feed example" width="250">
+  <img src="https://raw.githubusercontent.com/sukkritsharmaofficial/SuperResGAN/master/results/PIPRM_3_crop_rlt.png" alt="feed example" width="250">
+</p>
+
+
+-
+
+<p>
+  <img src="https://raw.githubusercontent.com/sukkritsharmaofficial/SuperResGAN/master/LR/car_test.jpg" alt="feed example" width="250">
+  <img src="https://raw.githubusercontent.com/sukkritsharmaofficial/SuperResGAN/master/results/car_test_rlt.png" alt="feed example" width="250">
+</p>
+
 # To train yourself :fire:✨
 Go to [train](https://github.com/sukkritsharmaofficial/SuperResGAN/tree/master/train) and read ReadMe.md
