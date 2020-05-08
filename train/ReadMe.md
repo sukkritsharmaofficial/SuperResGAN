@@ -28,6 +28,6 @@ for filename in os.listdir(path):
     count2 += 1
 ```
 #### To train for limited photos say 1000 images run :
-```python
+```bash
 python3 ESRGAN.py --n_epoch 10 --checkpoint_interval 100
 ```
